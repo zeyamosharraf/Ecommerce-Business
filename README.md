@@ -1,3 +1,7 @@
+## Dashboard
+
+To visit the interactive dashboard created for this project, [click here](https://sites.google.com/view/zeyamosharraf/project/eccomerce-business-analysis).
+
 ## Objective
 
 The objective of this project is to analyze the e-commerce datasets of an international online retailer to gain insights into sales performance, customer behavior, and product trends. By leveraging data analysis and visualization techniques, the goal is to provide actionable insights to optimize marketing strategies, inventory management, and customer engagement, ultimately driving revenue growth and business success.
