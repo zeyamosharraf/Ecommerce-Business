@@ -35,3 +35,11 @@ The project aims to demonstrate the use of data analysis and visualization techn
 - **Total Quantity, Avg. Unit Price, and Revenue by Stock Code:** The project analyzed the performance of different stock codes based on quantity sold, average unit price, and total revenue generated.
 - **Total Sales Revenue/Quantity by Country:** The project analyzed sales revenue and quantity sold for each country to identify key markets.
 - **Variation of Total Quantity and Revenue over Months:** The project analyzed the variation in total quantity sold and revenue generated over different months to identify trends and seasonality in sales.
+
+## Conclusion
+
+In conclusion, this project has provided valuable insights into the sales performance, customer behavior, and product trends of an international e-commerce company. Through rigorous data cleaning, analysis, and visualization, we were able to identify key metrics and patterns that can inform strategic decision-making.
+
+The project highlighted the importance of data-driven analysis in optimizing marketing strategies, inventory management, and customer engagement. By leveraging tools such as Python for data cleaning and Looker Studio for visualization, we were able to extract meaningful insights and provide actionable recommendations for business growth.
+
+Overall, this project demonstrates the power of data analysis in driving business success and underscores the value of continuous improvement and optimization based on data-driven insights.
